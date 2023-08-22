@@ -28,12 +28,12 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  pdf: # http://www.africau.edu/images/default/sample.pdf
 
   languages:
     title: Мови
     info:
-      - idiom: Англійська
+      - idiom: English
         level: Upper-Intermidiate
 
       - idiom: Українська
@@ -97,43 +97,28 @@ experiences:
 certifications:
   title: Проєкти
   list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
+    - name: <a target="_blank" href="https://github.com/tisukRoman/logistic-app">Logistic App</a>
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        Це клон мого першого комерційного проєкту на ReactJS.
+        Відвідати можна за <a target="_blank" href="https://fast-lanes-llc.web.app/">посиланням</a>.
+        Дані для входу: admin@gmail.com : password
 
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
-      end:
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
+    - name: <a target="_blank" href="https://furo-oil.com">Furo Oil</a>
       details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        Це великий WordPress веб-сайт у розробці якого я брав участь. Каталог масел німецького виробника Furo. 
+        У мої обов'язки входило написання модуля по підбору масел, адаптив всього сайту, ACF для сторінок і багато іншого.
+        До речі, модуль по підбору масел я писав на ReactJS. <a target="_blank" href="https://furo-oil.com">Посилання</a>
+
+    - name: Верстка
+      details: |
+        Версткою я займався досить багато. Надаю перевагу SCSS, GULP інструментам і BEM - методології.
+
+        1) <a target="_blank" href="https://github.com/tisukRoman/smintech">Smintech</a> (комерційний проєкт) Індійський веб-сайт арматури "Smintech") <br>
+        2) <a target="_blank" href="https://github.com/tisukRoman/prime">Prime Air Group</a> (комерційний проєкт) кондиціонери "Prime Air Group") <br>
+        3) <a target="_blank" href="https://tisukroman.github.io/natours-project">Natours</a> (навчальний проєкт) "Анімації" <br>
+        4) <a target="_blank" href="https://tisukroman.github.io/Trillo">Trillo</a> (навчальний проєкт) "Flexbox" <br>
+        5) <a target="_blank" href="https://tisukroman.github.io/Nexter">Nexter</a> (навчальний проєкт) "Grid Layout" <br>
+        6) <a target="_blank" href="http://animal-it-school.epizy.com">Animal IT-School</a> (навчальний проєкт) "WordPress" <br>
 
 projects:
   title: Сертифікати
@@ -185,4 +170,4 @@ skills:
       level: 50%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Дякую за увагу <i class="fas fa-smile"></i>
