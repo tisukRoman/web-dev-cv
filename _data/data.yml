@@ -97,28 +97,28 @@ experiences:
 certifications:
   title: Проєкти
   list:
-    - name: <a target="_blank" href="https://github.com/tisukRoman/logistic-app">Logistic App</a>
+    - name: <b>1. <a target="_blank" href="https://fast-lanes-llc.web.app/">Logistic App</a></b>
       details: |
         Це клон мого першого комерційного проєкту на ReactJS.
-        Відвідати можна за <a target="_blank" href="https://fast-lanes-llc.web.app/">посиланням</a>.
-        Дані для входу: admin@gmail.com : password
+        Переглянути код можна за <b><a target="_blank" href="https://github.com/tisukRoman/logistic-app">посиланням</a></b>.
+        Дані для входу: <b>admin@gmail.com : password</b>
 
-    - name: <a target="_blank" href="https://furo-oil.com">Furo Oil</a>
+    - name: <b>2. <a target="_blank" href="https://furo-oil.com">Furo Oil</a></b>
       details: |
         Це великий WordPress веб-сайт у розробці якого я брав участь. Каталог моторного масла німецького виробника Furo. 
         У мої обов'язки входило написання модуля по підбору масла, адаптив всього сайту, ACF для сторінок і багато іншого.
-        До речі, модуль по підбору масла я писав на ReactJS. <a target="_blank" href="https://furo-oil.com">Посилання</a>
+        До речі, модуль по підбору масла я писав на ReactJS.
 
-    - name: Верстка
+    - name: <b>3. Верстка</b>
       details: |
         Версткою я займався досить багато. Надаю перевагу SCSS, GULP інструментам і BEM - методології.
 
-        1) <a target="_blank" href="https://github.com/tisukRoman/smintech">Smintech</a> (комерційний проєкт) Індійський веб-сайт арматури "Smintech") <br>
-        2) <a target="_blank" href="https://github.com/tisukRoman/prime">Prime Air Group</a> (комерційний проєкт) кондиціонери "Prime Air Group") <br>
-        3) <a target="_blank" href="https://tisukroman.github.io/natours-project">Natours</a> (навчальний проєкт) "Анімації" <br>
-        4) <a target="_blank" href="https://tisukroman.github.io/Trillo">Trillo</a> (навчальний проєкт) "Flexbox" <br>
-        5) <a target="_blank" href="https://tisukroman.github.io/Nexter">Nexter</a> (навчальний проєкт) "Grid Layout" <br>
-        6) <a target="_blank" href="http://animal-it-school.epizy.com">Animal IT-School</a> (навчальний проєкт) "WordPress" <br>
+        1) <a target="_blank" href="https://github.com/tisukRoman/smintech"><b>Smintech</b></a> (комерційний проєкт) Індійський веб-сайт арматури "Smintech") <br>
+        2) <a target="_blank" href="https://github.com/tisukRoman/prime"><b>Prime Air Group</b></a> (комерційний проєкт) кондиціонери "Prime Air Group") <br>
+        3) <a target="_blank" href="https://tisukroman.github.io/natours-project"><b>Natours</b></a> (навчальний проєкт) "Анімації" <br>
+        4) <a target="_blank" href="https://tisukroman.github.io/Trillo"><b>Trillo</b></a> (навчальний проєкт) "Flexbox" <br>
+        5) <a target="_blank" href="https://tisukroman.github.io/Nexter"><b>Nexter</b></a> (навчальний проєкт) "Grid Layout" <br>
+        6) <a target="_blank" href="http://animal-it-school.epizy.com"><b>Animal IT-School</b></a> (навчальний проєкт) "WordPress" <br>
 
 projects:
   title: Сертифікати
