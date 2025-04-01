@@ -42,15 +42,9 @@ sidebar:
 career-profile:
   title: Біографія
   summary: |
-    Привіт! Я розробник, який практикується у вебі з 2020 року.
-    Маю впевнені знання HTML, CSS, JavaScript. Досить добре знайомий
-    з Front-End технологією ReactJS. Маю непогані знання з PHP та WordPress.
+        Привіт! Я досвідчений WordPress-розробник, спеціалізуюся на створенні та підтримці веб-сайтів. Маю глибокий досвід у розробці кастомних WordPress тем і активно працюю з HTML, CSS та PHP. Також маю практичний досвід роботи з ReactJS і NextJS. Основний скілл – WordPress.
 
-    На даний момент беру замовлення на фрілансі і допомагаю людям з їх проєктами. 
-    Хотів би поглибити свої знання в WordPress і PHP, бо
-    спостерігаю значний попит на ці технології з боку малого бізнесу. 
-
-    Для накопичення корисного досвіду хочу влаштуватися у веб-студію або невеличку компанію.
+        Наразі розглядаю можливості для професійного зростання у більш складних проєктах та завданнях. Найбільший досвід маю у розробці рішень на WordPress, однак прагну поєднати свою експертизу з освоєнням нових технологій, таких як React, Vue та Laravel. Шукаю середовище, де зможу ефективно застосовувати свої знання WordPress і водночас розширювати компетенції у сучасних фреймворках і технологіях.
 
 education:
   title: Освіта
@@ -72,80 +66,59 @@ experiences:
   info:
     - role: Freelance Developer
       time: 2022 - 2023
-      company: Weblancer
+      company: Freelance
       details: |
-        Моїм першим комерційним замовленням було написання логістичного веб-застосунку        
-        на бібліотеці React з інтеграцією сервісів MapBox і Firebase. 
-        На даний момент, найбільше роботи знаходжу саме в екосистемі WordPress.
-        Найпоширенішими задачами є верстка і написання скриптів на JavaScript.
+        Перший бойовий досвід я отримав на платформі weblancer знайшовши пару клієнтів і виконуючи задачі по WordPress. 
+        Був досвід розробки логістичного веб-додатку з ReactJS, Mapbox, Firebase.
 
-        Я спеціалізуюсь в першу чергу на Front-End розробці. WordPress у свою чергу
-        дуже полегшує життя надаючи готове серверне рішення, яке можна розширити
-        власноруч або за допомогою плагінів.
-
-    - role: Студент КНЕУ
-      time: 2020 - 2023
-      company: Kyiv, Ukraine
+    - role: WordPress Developer
+      time: 2023 - 2025
+      company: Codelibry
       details: |
-        На жаль, мій університет як і більшість з них в нашій країні не надає освіту високої якості.
-        Проте, я вдячний університету, що вмотивував мене засвоїти деякі фундаментальні знання з Computer Science.
-        Цими знаннями є: Теорія Алгоритмів, Структури Даних, Бази Даних, Комп'ютерні Мережі, ООП.
-
-        Усі знання пов'язані з вебом набуті мною самостійно. У цьому допомагали книги, курси на Udemy, 
-        YouTube і багато практики, яку ви можете побачати на моєму GitHub.
+        Робота в агенції Codelibry подарувала мені багатий досвід вирішення дуже різноманітних задач, що стосуються WordPress, PHP, HTML/CSS і JavaScript.
+        Тут я познайомився з багатьма плагінами, які вже є певним стандартом для мене. Брав активну участь в оптимізації процесу розробки.
+        Я не тільки виконував поставлені задачі, а й комунікував з клієнтами, приймав рішення, навчав менш досвідчених колег і багато іншого.
 
 certifications:
-  title: Проєкти
+  title: Найкращі Проєкти
   list:
-    - name: <b>1. <a target="_blank" href="https://fast-lanes-llc.web.app/">Logistic App</a></b>
+    - name: <b>1. <a target="_blank" href="https://yourexpats.nl/en/">Your Expats (WordPress, WPML, ACF, HubSpot)</a></b>
       details: |
-        Це клон мого першого комерційного проєкту на ReactJS.
-        Переглянути код можна за <b><a target="_blank" href="https://github.com/tisukRoman/logistic-app">посиланням</a></b>.
-        Дані для входу: <b>admin@gmail.com : password</b>
-
-    - name: <b>2. <a target="_blank" href="https://furo-oil.com">Furo Oil</a></b>
+        Платформа для залучення талантів вакансій з анімаціями і інтеграціями
+    - name: <b>2. <a target="_blank" href="https://purpleplanet.com/">Purple Planet (WordPress, WPML, ACF, ClickUp)</a></b>
       details: |
-        Це великий WordPress веб-сайт у розробці якого я брав участь. Каталог моторного масла німецького виробника Furo. 
-        У мої обов'язки входило написання модуля по підбору масла, адаптив всього сайту, ACF для сторінок і багато іншого.
-        До речі, модуль по підбору масла я писав на ReactJS.
-
-    - name: <b>3. Верстка</b>
+        Сайт-портфоліо для агенції <b>PurplePlanet</b> з різними анімаціями і ефектами
+    - name: <b>3. <a target="_blank" href="https://sparkintelgroup.com/">Spark Intel Group (WordPress, ACF, HTML/CSS)</a></b>
       details: |
-        Версткою я займався досить багато. Надаю перевагу SCSS, GULP інструментам і BEM - методології.
-
-        1) <a target="_blank" href="https://github.com/tisukRoman/smintech"><b>Smintech</b></a> (комерційний проєкт) Індійський веб-сайт арматури "Smintech") <br>
-        2) <a target="_blank" href="https://github.com/tisukRoman/prime"><b>Prime Air Group</b></a> (комерційний проєкт) кондиціонери "Prime Air Group") <br>
-        3) <a target="_blank" href="https://tisukroman.github.io/natours-project"><b>Natours</b></a> (навчальний проєкт) "Анімації" <br>
-        4) <a target="_blank" href="https://tisukroman.github.io/Trillo"><b>Trillo</b></a> (навчальний проєкт) "Flexbox" <br>
-        5) <a target="_blank" href="https://tisukroman.github.io/Nexter"><b>Nexter</b></a> (навчальний проєкт) "Grid Layout" <br>
-        6) <a target="_blank" href="http://animal-it-school.epizy.com"><b>Animal IT-School</b></a> (навчальний проєкт) "WordPress" <br>
+        Сайт за тиждень на основі готового шаблону: <b>SparkIntelGroup</b>
+    - name: <b>4. <a target="_blank" href="https://drivelines.co.uk/">Drivelines (WordPress, ACF, Tailwind)</a></b>
+      details: |
+        Тут було використано Tailwind як CSS-фреймворк
+    - name: <b>5. <a target="_blank" href="https://www.mentalhealtheurope.org/">Mental Health Europe (WordPress, ACF, HTML/CSS)</a></b>
+      details: |
+        Доволі об'ємний веб-сайт для організації підтрики психологічного здоров'я
 
 projects:
   title: Сертифікати
   intro: >
-    Більшість курсів проходив саме на платформі Udemy. Для мене студента це був
-    найпривабливіший варіант і по вартості, і по способу подачі матеріалу.
+    Узагалі я прихильник навчання через практику, але є курси, які можу відзначити:
 
   assignments:
+    - title: "Complete CSS"
+      link: "/assets/images/complete-css.pdf"
+      tagline: "Найбільш просунутий курс по CSS, який я коли-небудь бачив. <a href='https://piccalil.li/complete-css/'>Деталі про курс і сертифікацію тут</a>"
+
     - title: "Become a WordPress Developer: Unlocking Power With Code"
       link: "https://www.udemy.com/certificate/UC-83ccdbcb-cd8a-4da8-b6f0-9f15142aee1f/"
-      tagline: "Learn PHP, JavaScript, WordPress theming & the WP REST API to Create Custom & Interactive WordPress Websites"
-
-    - title: "MERN From Scratch 2023 | eCommerce Platform"
-      link: "https://www.udemy.com/certificate/UC-898290af-b105-4dda-8729-4921bccf460d/"
-      tagline: "Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB"
-
-    - title: "Advanced React and Redux"
-      link: "https://www.udemy.com/certificate/UC-78031396-6801-4792-875a-982c1b640fa1/"
-      tagline: "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment"
+      tagline: "Створення інтерактивних WordPress тем і плагінів за допомогою PHP, JavaScript, WP REST API"
 
     - title: "The Complete Guide to Building Premium WordPress Themes"
       link: "https://ua.udemy.com/certificate/UC-c2593dff-9cae-453b-877b-918fc8db765f/"
-      tagline: "Create a Premium Wordpress Theme From Scratch. Learn All About WordPress Theme Development. Get Approved On Themeforest."
+      tagline: "Створіть преміальну тему WordPress з нуля. Дізнайтеся все про розробку тем для WordPress. Отримайте схвалення на ThemeForest."
 
     - title: "Advanced CSS and Sass: Flexbox, Grid, Animations and More!"
       link: "https://ua.udemy.com/certificate/UC-21a91ae4-e2ae-45f8-a456-944c10082fb6/"
-      tagline: "The most advanced and modern CSS course on the internet: master flexbox, CSS Grid, responsive design, and so much more."
+      tagline: "Курс по SASS/SCSS"
 
 skills:
   title: Навички
@@ -158,13 +131,13 @@ skills:
       level: 90%
 
     - name: ReactJS
-      level: 90%
-
-    - name: WordPress
       level: 70%
 
+    - name: WordPress
+      level: 90%
+
     - name: PHP
-      level: 55%
+      level: 80%
 
     - name: Linux
       level: 50%
