@@ -75,7 +75,7 @@ experiences:
       time: 2023 - 2025
       company: Codelibry
       details: |
-        Робота в агенції Codelibry подарувала мені багатий досвід вирішення дуже різноманітних задач, що стосуються WordPress, PHP, HTML/CSS і JavaScript.
+        Робота в агенції подарувала мені багатий досвід вирішення дуже різноманітних задач, що стосуються WordPress, PHP, HTML/CSS і JavaScript.
         Тут я познайомився з багатьма плагінами, які вже є певним стандартом для мене. Брав активну участь в оптимізації процесу розробки.
         Я не тільки виконував поставлені задачі, а й комунікував з клієнтами, приймав рішення, навчав менш досвідчених колег і багато іншого.
 
@@ -105,7 +105,7 @@ projects:
 
   assignments:
     - title: "Complete CSS"
-      link: "/assets/images/complete-css.pdf"
+      link: "https://tisukroman.github.io/web-dev-cv/assets/images/complete-css.pdf"
       tagline: "Найбільш просунутий курс по CSS, який я коли-небудь бачив. <a href='https://piccalil.li/complete-css/'>Деталі про курс і сертифікацію тут</a>"
 
     - title: "Become a WordPress Developer: Unlocking Power With Code"
