@@ -49,7 +49,7 @@ career-profile:
 education:
   title: Освіта
   info:
-    - degree: Бакалаврат "Комп'ютерні науки"
+    - degree: 4 курс "Комп'ютерні науки"
       university: КНЕУ ім. Вадима Гетьмана
       time: 2020 - 2023
       details: |
@@ -68,7 +68,7 @@ experiences:
       time: 2022 - 2023
       company: Freelance
       details: |
-        Перший досвід я отримав на платформі "Weblancer" знайшовши клієнтів і виконуючи задачі по WordPress. 
+        Перший досвід я отримав на платформі "Weblancer" знайшовши пару клієнтів і виконуючи задачі по WordPress. 
         Був досвід розробки логістичного веб-додатку з ReactJS, Mapbox, Firebase.
 
     - role: WordPress Developer
@@ -80,14 +80,14 @@ experiences:
         Я не тільки виконував поставлені задачі, а й комунікував з клієнтами, приймав рішення, навчав менш досвідчених колег і багато іншого.
 
 certifications:
-  title: Мої останні Проєкти
+  title: Найкращі Проєкти
   list:
     - name: <b>1. <a target="_blank" href="https://yourexpats.nl/en/">Your Expats (WordPress, WPML, ACF, HubSpot)</a></b>
       details: |
-        Платформа для інтернаціональної рекрутингової компанії
+        Платформа для залучення талантів вакансій з анімаціями і інтеграціями
     - name: <b>2. <a target="_blank" href="https://purpleplanet.com/">Purple Planet (WordPress, WPML, ACF, ClickUp)</a></b>
       details: |
-        Сайт-портфоліо для digital агенції <b>PurplePlanet</b> з різними анімаціями і ефектами
+        Сайт-портфоліо для агенції <b>PurplePlanet</b> з різними анімаціями і ефектами
     - name: <b>3. <a target="_blank" href="https://sparkintelgroup.com/">Spark Intel Group (WordPress, ACF, HTML/CSS)</a></b>
       details: |
         Сайт за тиждень на основі готового шаблону: <b>SparkIntelGroup</b>
@@ -96,7 +96,7 @@ certifications:
         Тут було використано Tailwind як CSS-фреймворк
     - name: <b>5. <a target="_blank" href="https://www.mentalhealtheurope.org/">Mental Health Europe (WordPress, ACF, HTML/CSS)</a></b>
       details: |
-        Веб-сайт для міжнародної організації з підтрики психологічного здоров'я
+        Доволі об'ємний веб-сайт для організації підтрики психологічного здоров'я
 
 projects:
   title: Сертифікати
